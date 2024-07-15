@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manusha Jayasinghe</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate blockchain developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **3D Web Portfolio**
+- 🔭 I’m currently working on **Web 3.0 Real Estate App**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Solidity**
 
-- 💬 Ask me about **MERN, React Js**
+- 💬 Ask me about **Solidity,Web 3.0,Blockchain**
 
 - 📫 How to reach me **manushalakshanjay@gmail.com**
 
