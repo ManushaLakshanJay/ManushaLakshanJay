@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning: **Advanced React, Node.js, Machine Learning, Solidity**  
 - 💬 Ask me about: **Frontend development, UI/UX, TypeScript, Animation libraries, Solidity, Web 3.0, Blockchain**  
 - ⚡ Fun fact: I love building **futuristic, animated web experiences**.
+- ⛏️ Full-Time Trencher — always building, always learning
 
 ---
 
